@@ -1,3 +1,12 @@
-streamlit
 pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+scipy
+category_encoders
+matplotlib
+seaborn
+plotly
 joblib
+streamlit
